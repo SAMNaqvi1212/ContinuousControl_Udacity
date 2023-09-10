@@ -1,6 +1,8 @@
 # ContinuousControl_Udacity
 This repository contains the code and other relevant materials for Udacity Nano-degree on Deep Reinforcement Learning project: "Continuous-Control"
 
+https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif
+
 #### Introduction
 
 This Project is a part of Udacity-Nanodegree program on Deep Reinforcement Learning. This project is the second of three projects as part of this nano-degree. This project is based on Reacher Environment. 
