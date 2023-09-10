@@ -1,7 +1,7 @@
 # ContinuousControl_Udacity
 This repository contains the code and other relevant materials for Udacity Nano-degree on Deep Reinforcement Learning project: "Continuous-Control"
 
-https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif
+![]( https://github.com/SAMNaqvi1212/ContinuousControl_Udacity/blob/main/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif)      
 
 #### Introduction
 
