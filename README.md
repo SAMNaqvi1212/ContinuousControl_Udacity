@@ -15,4 +15,15 @@ The environment is considered to be closed if the agent gains +100 rewards in 33
 The corresponding method that is utilized in this is an Actor-Critic Method which is a deep deterministic gradient policy algorithm.
 
 
+# Solving the Environment
+ 1) First option includes an episodic task and in order to solve the environment your agent must score +30 over 100 episodes.
+
+ 2) (i) The barrier for solving the seconf version is slightly different. We take into account each and every score by the agent. This yields potentially 20 different scores
+    and we then get an average of these 20 scores.
+    (ii) This yields an average score for each episode (when the average is overall 20 agents).
+
+The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
+    
+
+
 
