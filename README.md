@@ -23,6 +23,24 @@ The corresponding method that is utilized in this is an Actor-Critic Method whic
     (ii) This yields an average score for each episode (when the average is overall 20 agents).
 
   The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
+
+# Getting Started
+
+1) To set-up the Python environment which is provided in the notebook
+2) To download the environment, follow the provided links below:
+   i) [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
+   ii)[OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
+   iii) [Windows32-bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip)
+   iv) [Windows64-bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
+
+   This is for one-agent.
+
+This is for twenty agents:
+i) [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+ii)[OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+iii)[Windows32-bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
+iv)[Windows64-bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
+   
     
 
 
