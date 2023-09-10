@@ -3,7 +3,7 @@ This repository contains the code and other relevant materials for Udacity Nano-
 
 ![]( https://github.com/SAMNaqvi1212/ContinuousControl_Udacity/blob/main/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif)      
 
-#### Introduction
+# Introduction
 
 This Project is a part of Udacity-Nanodegree program on Deep Reinforcement Learning. This project is the second of three projects as part of this nano-degree. This project is based on Reacher Environment. 
 In this environment a double-jointed arm is to be moved to target-locations. A reward of +0.1 is provided for each step that the agent's hand is in the target location. The ultimate goal is to make the agent
