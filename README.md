@@ -22,7 +22,7 @@ The corresponding method that is utilized in this is an Actor-Critic Method whic
     and we then get an average of these 20 scores.
     (ii) This yields an average score for each episode (when the average is overall 20 agents).
 
-The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
+ The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
     
 
 
